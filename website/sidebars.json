@@ -1,0 +1,19 @@
+{
+  "docs": {
+    "Getting Started": [
+      "Installation",
+      "Packages"
+    ],
+    "Configure your App": [
+      "Folder_Structure",
+      "Constants",
+      "Themes",
+      "Languages",
+      "Pages",
+      "Components"
+    ],
+    "Advanced Guides": [
+      ""
+    ]
+  }
+}
