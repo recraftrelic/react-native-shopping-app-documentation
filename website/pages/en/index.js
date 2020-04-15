@@ -90,7 +90,7 @@ class Index extends React.Component {
                   </h2>
                   <div>
                     <span>
-                      <p>This Shopping app is a boilerplate for any react native developer who wants to build a chat app. The goal of this boilerplate is to provide a fully functional chat app which can be reused with very little to no modification.</p>
+                      <p>This shopping app is a boilerplate for any react native developer who wants to build a shopping app. The goal of this boilerplate is to provide a fully functional shopping app which can be reused with very little to no modification.</p>
                       <ul className="chat-list">
                         <li>Routing</li>
                         <li>Themes</li>
@@ -98,8 +98,8 @@ class Index extends React.Component {
                       </ul>
                       <div className="inner">
                         <PromoSection>
-                          <Button target="_blank" href="https://github.com/recraftrelic/react-native-chat-app-boilerplate">Github</Button>
-                          <Button target="_blank" href="https://play.google.com/store/apps/details?id=com.reactnativechatappboilerplate">Google Play</Button>
+                          <Button target="_blank" href="https://github.com/recraftrelic/recraft-react-native-shopping-app">Github</Button>
+                          <Button target="_blank" href="https://play.google.com/store/apps/details?id=com.recraftreactnativebaseapp">Google Play</Button>
                           <Button target="_blank" href={docUrl('Installation.html')}>Docs</Button>
                         </PromoSection>
                       </div>
@@ -107,7 +107,7 @@ class Index extends React.Component {
                   </div>
                 </div>
                 <div class="blockImage">
-                  <video width="90%" height="auto" loop="" autoplay="" src="/chatapp/img/documentation.mp4"></video>
+                  <video width="90%" height="auto" loop="" autoplay="" src="/shoppingapp/img/documentation.mp4"></video>
                 </div>
               </div>
             </div>
