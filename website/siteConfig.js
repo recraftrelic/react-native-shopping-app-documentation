@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Recraft Chat App', // Title for your website.
+  title: 'Recraft Shopping App', // Title for your website.
   tagline: 'A website for docs',
   url: 'https://documentation.recraftrelic.com/shoppingapp/', // Your website URL
   baseUrl: '/shoppingapp/', // Base URL for your project */
