@@ -84,13 +84,13 @@ class Index extends React.Component {
                   <h2>
                     <div>
                       <span>
-                        <p>Recraft Chat App</p>
+                        <p>Recraft Shopping App</p>
                       </span>
                     </div>
                   </h2>
                   <div>
                     <span>
-                      <p>This chat app is a boilerplate for any react native developer who wants to build a chat app. The goal of this boilerplate is to provide a fully functional chat app which can be reused with very little to no modification.</p>
+                      <p>This Shopping app is a boilerplate for any react native developer who wants to build a chat app. The goal of this boilerplate is to provide a fully functional chat app which can be reused with very little to no modification.</p>
                       <ul className="chat-list">
                         <li>Routing</li>
                         <li>Themes</li>
