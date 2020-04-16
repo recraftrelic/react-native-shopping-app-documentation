@@ -19,19 +19,18 @@ Use a little—or a lot. You can use React Native today in your existing Android
 * React Router Native combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
 Use a little—or a lot. You can use React Native today in your existing Android and iOS projects or you can create a whole new app from scratch.
 
-## [Moment](https://www.npmjs.com/package/moment)
-
-* Moment combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
-Use a little—or a lot. You can use React Native today in your existing Android and iOS projects or you can create a whole new app from scratch.
-
 ## [TypeScript](https://www.npmjs.com/package/typescript)
 
 * TypeScript combines the best parts of native development with React, a best-in-class JavaScript library for building user interfaces.
 Use a little—or a lot. You can use React Native today in your existing Android and iOS projects or you can create a whole new app from scratch.
 
-## [Micro Validator](https://www.npmjs.com/package/micro-validator)
+## [React Native Carousel](https://www.npmjs.com/package/react-native-carousel)
 
-* A minimalistic & extensible validation library for javascript
+* A simple swipeable carousel for React Native
+
+## [React Native Modal](https://www.npmjs.com/package/react-native-modal)
+
+* An enhanced, animated and customizable react-native modal
 
 ## [React Vector Icons](https://www.npmjs.com/package/react-native-vector-icons)
 
