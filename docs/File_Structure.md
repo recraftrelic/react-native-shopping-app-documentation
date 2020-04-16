@@ -6,7 +6,7 @@ title: Folder Structure
 After creation, your project should look like this:
 
 ```
-react-native-chat-app-boilerplate/
+recraft-react-native-shopping-app/
   README.md
   App.tsx
   index.js
@@ -36,23 +36,29 @@ react-native-chat-app-boilerplate/
     reducers/
       config.ts
   pages/
-    ChatDetail/
+    Home/
       index.tsx
-    ChatList/
+      HomePageProducts.tsx
+    BaseHome/
       index.tsx
     ...
   components/
-    chat/
-      ChatDetailHeader.tsx
-      ChatItem.tsx
-      ChatInput.tsx
+    Base/
+      BagItem.tsx
+      ButtonItem.tsx
+      BagOption.tsx
     ...
     HOC/
       BackHandlerHOC.tsx
     UI/
-      SearchBar.tsx
       ThemedText.tsx
       ThemedView.tsx
+    common/
+      BackButton/
+      Carousel/
+      Main/
+    Modal/
+      CommonModal.tsx
 ```
 
 For the project to build, these files must exist with exact filenames:

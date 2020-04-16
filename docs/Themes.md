@@ -3,7 +3,7 @@ id: Themes
 title: Themes
 ---
 
-By default there will be two different app themes provided in the chat app settings:-
+By default there will be two different app themes provided in the shopping app profile:-
 * lightTheme
 * darkTheme
 
@@ -20,28 +20,38 @@ export const darkTheme: AppTheme = {
     backgroundColor: "#000000",
     highlightColor: "grey",
     highlightTextColor: "#ffffff",
+    buyButtonLink: "#ca2727",
     textColor: "#fff",
     lightTextColor: "#b3b3b3",
     lightBottomColor: "#666666",
     alternateMessageBackgroundColor: '#4682b4',
-    modalBackgroundColor: 'rgba(0,0,0,0.5)',
-    warningColor: '#FF0000',
-    errorColor: '#FF0000',
-    appColor: '#ed5d45',
-  }
+    labelBgColor: "#fff",
+    activeColor: "activeColor",
+    dangerColor: "#e13e3d",
+    appColor: "#ec5c44",
+    facebookColor: '#39579a',
+    googleColor: '#e3384c',
+    inputColor: "#aaaaaa",
+    inputBorderColor: "#dadada",
+}
   
 export const lightTheme: AppTheme = {
     backgroundColor: "#ffffff",
-    highlightColor: "green",
+    highlightColor: "grey",
     highlightTextColor: "#ffffff",
+    buyButtonLink: "#ca2727",
     textColor: "#333",
     lightTextColor: "#b3b3b3",
     lightBottomColor: "#e6e6e6",
     alternateMessageBackgroundColor: '#B0E0E6',
-    modalBackgroundColor: 'rgba(0,0,0,0.5)',
-    warningColor: '#FF0000',
-    errorColor: '#FF0000',
-    appColor: '#ed5d45',
+    labelBgColor: "#000",
+    activeColor: "#ec5c44",
+    dangerColor: "#e13e3d",
+    appColor: "#ec5c44",
+    facebookColor: '#39579a',
+    googleColor: '#e3384c',
+    inputColor: "#aaaaaa",
+    inputBorderColor: "#dadada",
 }
 ```
 

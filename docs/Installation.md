@@ -4,21 +4,21 @@ title: Installation
 sidebar_label: Installation
 ---
 
-The react native chat app is a boilerplate for any react native developer who wants to build a chat app.
+This shopping app is a boilerplate for any react native developer who wants to build a shopping app. 
 
-The goal of this boilerplate is to provide a fully functional chat app which can be reused with very little to no modification.
+The goal of this boilerplate is to provide a fully functional shopping app which can be reused with very little to no modification.
 
 ## Clone the Github Project
 
 ```
-git clone git@github.com:recraftrelic/react-native-chat-app-boilerplate.git
+git clone git@github.com:recraftrelic/recraft-react-native-shopping-app.git
 ```
 
 ## Installing the Dependencies
 
 Enter inside the root directory of the project folder 
 ```
-cd react-native-chat-app-boilerplate
+cd recraft-react-native-shopping-app
 ```
 
 Now install the required dependencies for the project 

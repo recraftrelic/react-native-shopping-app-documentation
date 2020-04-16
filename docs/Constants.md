@@ -14,18 +14,28 @@ touch DefaultConfig.ts
 ```
 
 ```
+// @ts-ignore
+const Logo = require("../images/recraftshoping-app-logo2.png")
+
 export const defaultConfig: ApplicationConfig = {
     constants: {
       selectedTheme: ThemeKey.light,
       selectedLanguage: LanguageKey.en,
-      dateFormats: {
-        chatDateFormat: "MM/DD/YY",
-        chatHourDisplayFormat: "hh:mm A",
-        chatYesterdayText: "Yesterday",
+      title: "RecraftShoppify",
+      recraftLogo: Logo,
+      homePage: {
+        productLabel: "NEW",
+        labelViewAll: "View All",
+        labelFashion: "FASHION",
+        labelSave: "SALE",
       },
-      appLogo: require("../app-logo.png"),
-    }
+      advertisement: {
+        label1: "SHOP",
+        label2: "NOW",
+        labelBuy: "BUY",
+      },
+    },
 }
 ```
 
-As you can see there are various predefined constants in the above mentioned file. You can add more constants to use in the chat app.
+As you can see there are various predefined constants in the above mentioned file. You can add more constants to use in the shopping app.

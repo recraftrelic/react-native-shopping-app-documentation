@@ -3,7 +3,7 @@ id: Languages
 title: Languages
 ---
 
-By default there will be five different app languages provided in the chat app settings:-
+By default there will be five different app languages provided in the shopping app profile:-
 * English (EN)
 * French (FR)
 * German (GR)
@@ -40,4 +40,4 @@ export const languages: LanguagesMap = {
 }
 ```
 
-As you can see there are various predefined languages in the above mentioned file. You can add more languages to use in the chat app.
+As you can see there are various predefined languages in the above mentioned file. You can add more languages to use in the shopping app.
